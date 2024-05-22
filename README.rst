@@ -4,8 +4,8 @@ UMLS RAT
 .. image:: https://readthedocs.org/projects/urls-rat/badge/?version=latest
     :target: https://urls-rat.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
-.. image:: https://github.com/3mcloud/umls-rat/actions/workflows/test.yml/badge.svg
-    :target: https://github.com/3mcloud/umls-rat/actions/workflows/test.yml 
+.. image:: https://github.com/solventum-oss/umls-rat/actions/workflows/test.yml/badge.svg
+    :target: https://github.com/solventum-oss/umls-rat/actions/workflows/test.yml 
 .. image:: https://badge.fury.io/py/umls-rat.svg
    :target: https://pypi.python.org/pypi/umls-rat/
 ..
@@ -25,4 +25,4 @@ Links
 =====
 
 * `Latest documentation <https://urls-rat.readthedocs.io/en/latest/>`_.
-* `Source on Github <https://github.com/3mcloud/umls-rat>`_.
+* `Source on Github <https://github.com/solventum-oss/umls-rat>`_.

@@ -76,7 +76,7 @@ Links
 =====
 
 * `Latest documentation <https://urls-rat.readthedocs.io/en/latest/>`_.
-* `Source on Github <https://github.com/3mcloud/umls-rat>`_.
+* `Source on Github <https://github.com/solventum-oss/umls-rat>`_.
 
 Indices and tables
 ==================

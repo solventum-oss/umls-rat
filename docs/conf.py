@@ -61,4 +61,4 @@ html_theme = "python_docs_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
-html_logo = "_static/logo-3m.svg"
+html_logo = "_static/solventum-logo-vert-clr-rev-rgb.svg"

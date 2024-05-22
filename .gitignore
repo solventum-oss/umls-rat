@@ -2,6 +2,7 @@ unittests.xml
 definitions/
 .idea/
 docs/source-info.rst
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
